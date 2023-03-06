@@ -3,7 +3,7 @@
 <p>Este repositório foi criado para apresentar minhas soluções para os desafios propostos pelo Frontend Mentor.</p>
 
 <h2>🤔 Mas o que é o Frontend Mentor?</h2>
-O Frontend Mentor é um site que te dá acesso a vários desafios de HTML, CSS e JS, com o objetivo de melhor suas habilidades nessa área. A maioria dos desafios são gratuitos e você pode escolhe-los com base no seu nível(básico, intermediário e avançado).</p>
+O Frontend Mentor é um site que te dá acesso a vários desafios de HTML, CSS e JS, com o objetivo de melhora suas habilidades na área. A maioria dos desafios são gratuitos e você pode escolhe-los com base no seu nível(básico, intermediário e avançado).</p>
 
 
 <h2>🤷‍♀️ Como faço para iniciar o desafio?</h2>
