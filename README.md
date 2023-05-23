@@ -16,4 +16,5 @@ O Frontend Mentor é um site que te dá acesso a vários desafios de HTML, CSS e
 <h2>🚀 Desafios Concluídos (até o momento)</h2>
 <ul>
 <li><a href="[https://github.com/kaili0n/Desafios-Frontend-Mentor/tree/main/Projeto%201%20-%20Product%20preview%20card%20component"> Product preview card component</a></li>
+<li><a href="[https://github.com/kaili0n/Desafios-Frontend-Mentor/tree/main/Projeto%201%20-%20Product%20preview%20card%20component">QR code component</a></li>
 </ul>
