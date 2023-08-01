@@ -8,10 +8,9 @@ O desafio é construir esse componente de código QR e deixá-lo o mais próximo
 
 ## Layout
 
-É possível visualizar todo o layout da aplicação na pasta, esta nomeado como 'desktop'.
+É possível visualizar todo o layout da aplicação na pasta, esta nomeado como 'desktop-design.jpg'.
 
 ## Tecnologias Utilizadas
 
 - HTML
 - CSS
-s
