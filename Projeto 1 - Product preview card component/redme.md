@@ -1,6 +1,6 @@
 # Frontend Mentor - Desafio Product preview card component
 
-<img src="image-product-desktop.jpg"
+<img src="image-product-desktop.jpg">
 
 ## Sobre o Desafio
 
@@ -14,3 +14,4 @@ O desafio é criar esse componente de cartão de visualização do produto e dei
 
 - HTML
 - CSS
+s
