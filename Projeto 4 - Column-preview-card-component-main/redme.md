@@ -12,7 +12,7 @@
 
 ## Layout
 
-É possível visualizar todo o layout da aplicação na pasta, esta nomeado como 'desktop-design.jpg'.
+- É possível visualizar todo o layout da aplicação na pasta, esta nomeado como 'desktop-design.jpg'.
 
 ## Tecnologias Utilizadas
 
