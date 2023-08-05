@@ -4,23 +4,38 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="icon" type="image/png" sizes="32x32" href="./images/favicon-32x32.png">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@100;300;400;600&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="style.css">
-    <title>Frontend Mentor | QR code component</title>
+    <title>Frontend Mentor | NFT preview card component main</title>
 </head>
 <body>
     <table>
-        <tr>
-            <td><img src="images/image-qr-code.png"></td>
+        <tr class="linha">
+            <td colspan="2">
+                <img src="imagens\image-equilibrium.jpg">
+            </td>
         </tr>
-        <tr>
-            <td><h1>Improve your front-end skills by building projects</h1></td>
+        <tr class="linha">
+            <td colspan="2">
+                <h1>Equilibrium #3429</h1>
+            </td>
         </tr>
-        <tr>
-            <td><p>Scan the QR code to visit Frontend Mentor and take your coding skills to the next level</p></td>
+        <tr class="linha">
+            <td colspan="2">
+                <p>Our Equilibrium collection promotes balance and calm.</p>
+            </td>
+        </tr>
+        <tr class="linha">
+            <td><p id="eth"><svg width="11" height="18" xmlns="http://www.w3.org/2000/svg"><path d="M11 10.216 5.5 18 0 10.216l5.5 3.263 5.5-3.262ZM5.5 0l5.496 9.169L5.5 12.43 0 9.17 5.5 0Z" fill="#00FFF8"/></svg> 0.041 ETH</p></td>
+            <td><p id="relogio"><svg width="17" height="17" xmlns="http://www.w3.org/2000/svg"><path d="M8.305 2.007a6.667 6.667 0 1 0 0 13.334 6.667 6.667 0 0 0 0-13.334Zm2.667 7.334H8.305a.667.667 0 0 1-.667-.667V6.007a.667.667 0 0 1 1.334 0v2h2a.667.667 0 0 1 0 1.334Z" fill="#8BACD9"/></svg> 3 days left</p></td>
+        </tr>
+        <tr class="linha">
+            <td colspan="2"><hr></td>
+        </tr>
+        <tr class="linha">
+            <td colspan="2"><img id="avatar" src="imagens/image-avatar.png"><p id="nickname">Creation of <span>Jules Wyvern</span></p></td>
         </tr>
     </table>
 </body>
