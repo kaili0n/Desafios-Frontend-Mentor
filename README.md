@@ -1,8 +1,8 @@
 # Frontend Mentor
 
 <div align="center">
+<<<<<<< HEAD
 <img src="banner.png" width="100%" />   
- 
 </div> 
  
 ##### Este repositório foi criado para exibir minhas resoluções dos desafios proposto pelo Frontend Mentor.
