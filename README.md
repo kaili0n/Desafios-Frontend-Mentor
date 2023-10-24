@@ -1,7 +1,6 @@
 # Frontend Mentor
 
 <div align="center">
-<<<<<<< HEAD
 <img src="banner.png" width="100%" />   
 </div> 
  
