@@ -31,15 +31,3 @@ Siiim, é possível! Ao acessar a plataforma e clicar no seu perfil é possível
 - <a href="https://github.com/nicolyyy/frontend-mentor/tree/master/challenge-04">Coding Bootcamp Testimonials Slider</a>
 
 - <a href="https://github.com/nicolyyy/frontend-mentor/tree/master/challenge-05">Social media dashboard with theme switcher</a>
-
-
-
-
-<<<<<<< HEAD
-=======
-<h2>🚀 Desafios Concluídos (até o momento)</h2>
-<ul>
-<li><a href="https://github.com/kaili0n/Desafios-Frontend-Mentor/tree/main/Projeto%201%20-%20Product%20preview%20card%20component"> Product preview card component</a></li>
-<li><a href="https://github.com/kaili0n/Desafios-Frontend-Mentor/tree/main/Projeto%202%20-%20QR%20code%20component">QR code component</a></li>
-</ul>
->>>>>>> 528384579c384295de75b2dc3636ac69724fd416
