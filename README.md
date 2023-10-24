@@ -1,7 +1,7 @@
 # Frontend Mentor
 
 <div align="center">
-<img src="./.github/meta-homepage.png"        width="100%" />   
+<img src="banner.png"        width="100%" />   
  
 </div> 
  
