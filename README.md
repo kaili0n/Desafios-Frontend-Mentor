@@ -16,10 +16,6 @@ Antes de tudo, é importante que você crie uma conta no <a  href="https://www.f
 Feito isso, basta você selecionar o desafio que mais gostou e clicar em <b>Start Challenge</b>. Pronto, agora é só baixar o arquivo vinculado ao desafio e começar a codar :D.
 <br></br>
 
-### :octocat: É possível contribuir com o projeto?
-Siiim, é possível! Ao acessar a plataforma e clicar no seu perfil é possível visualizar todos os seus desafios que você iniciou e ao concluí-los você poderá clicar em <b>Submit Solution</b> e enviar as suas soluções para a plataforma.   
-<br></br>
-
 ### :rocket: Desafios Concluídos (até o momento)
 
 - <a href="https://github.com/nicolyyy/frontend-mentor/tree/master/challenge-01"> Pricing component with toggle</a>
